@@ -1,0 +1,5 @@
+D:\Moje projekty\PAWP\PAWPController\bin\Debug\PAWPController.dll
+D:\Moje projekty\PAWP\PAWPController\bin\Debug\PAWPController.pdb
+D:\Moje projekty\PAWP\PAWPController\obj\Debug\PAWPController.dll
+D:\Moje projekty\PAWP\PAWPController\obj\Debug\PAWPController.pdb
+D:\Moje projekty\PAWP\PAWPController\obj\Debug\PAWPController.csprojResolveAssemblyReference.cache

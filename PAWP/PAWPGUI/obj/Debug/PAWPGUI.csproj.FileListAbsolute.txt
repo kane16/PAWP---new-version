@@ -1,0 +1,12 @@
+D:\Moje projekty\PAWP\PAWPGUI\bin\Debug\PAWPGUI.exe.config
+D:\Moje projekty\PAWP\PAWPGUI\bin\Debug\PAWPGUI.exe
+D:\Moje projekty\PAWP\PAWPGUI\bin\Debug\PAWPGUI.pdb
+D:\Moje projekty\PAWP\PAWPGUI\obj\Debug\PAWPGUI.csprojResolveAssemblyReference.cache
+D:\Moje projekty\PAWP\PAWPGUI\obj\Debug\PAWPGUI.Properties.Resources.resources
+D:\Moje projekty\PAWP\PAWPGUI\obj\Debug\PAWPGUI.csproj.GenerateResource.Cache
+D:\Moje projekty\PAWP\PAWPGUI\obj\Debug\PAWPGUI.exe
+D:\Moje projekty\PAWP\PAWPGUI\obj\Debug\PAWPGUI.pdb
+D:\Moje projekty\PAWP\PAWPGUI\bin\Debug\PAWPController.dll
+D:\Moje projekty\PAWP\PAWPGUI\bin\Debug\PAWPController.pdb
+D:\Moje projekty\PAWP\PAWPGUI\obj\Debug\PAWPGUI.MainMenu.resources
+D:\Moje projekty\PAWP\PAWPGUI\obj\Debug\PAWPGUI.NormalDistribution.resources

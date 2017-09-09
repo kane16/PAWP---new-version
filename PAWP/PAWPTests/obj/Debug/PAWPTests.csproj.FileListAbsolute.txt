@@ -1,0 +1,9 @@
+D:\Moje projekty\PAWP\PAWPTests\bin\Debug\PAWPTests.dll
+D:\Moje projekty\PAWP\PAWPTests\bin\Debug\PAWPTests.pdb
+D:\Moje projekty\PAWP\PAWPTests\bin\Debug\nunit.framework.dll
+D:\Moje projekty\PAWP\PAWPTests\bin\Debug\nunit.framework.xml
+D:\Moje projekty\PAWP\PAWPTests\obj\Debug\PAWPTests.csprojResolveAssemblyReference.cache
+D:\Moje projekty\PAWP\PAWPTests\obj\Debug\PAWPTests.dll
+D:\Moje projekty\PAWP\PAWPTests\obj\Debug\PAWPTests.pdb
+D:\Moje projekty\PAWP\PAWPTests\bin\Debug\PAWPController.dll
+D:\Moje projekty\PAWP\PAWPTests\bin\Debug\PAWPController.pdb

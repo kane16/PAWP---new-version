@@ -1,0 +1,10 @@
+D:\Moje projekty\PAWP\PAWP\bin\Debug\PAWP.exe.config
+D:\Moje projekty\PAWP\PAWP\bin\Debug\PAWP.exe
+D:\Moje projekty\PAWP\PAWP\bin\Debug\PAWP.pdb
+D:\Moje projekty\PAWP\PAWP\bin\Debug\nunit.framework.dll
+D:\Moje projekty\PAWP\PAWP\bin\Debug\nunit.framework.xml
+D:\Moje projekty\PAWP\PAWP\obj\Debug\PAWP.csprojResolveAssemblyReference.cache
+D:\Moje projekty\PAWP\PAWP\obj\Debug\PAWP.exe
+D:\Moje projekty\PAWP\PAWP\obj\Debug\PAWP.pdb
+D:\Moje projekty\PAWP\PAWP\obj\Debug\PAWP.GUI.resources
+D:\Moje projekty\PAWP\PAWP\obj\Debug\PAWP.csproj.GenerateResource.Cache
